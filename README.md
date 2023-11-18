@@ -1,1 +1,1 @@
-This is my component library built with storybook
+This is my component library built with components developed in isolation using storybook.
